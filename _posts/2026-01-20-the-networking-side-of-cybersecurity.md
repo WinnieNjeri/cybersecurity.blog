@@ -1,5 +1,5 @@
 ---
-title: "How Learning Networking Is Shaping My Cybersecurity Journey"
+title: "The Networking Side of Cybersecurity"
 date: 2026-01-20
 ---
 
