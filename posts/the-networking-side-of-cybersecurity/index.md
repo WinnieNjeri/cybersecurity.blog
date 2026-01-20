@@ -20,7 +20,6 @@ Some essential concepts for beginners:
 - **Firewalls and Network Security:** Firewalls and other tools control access and monitor traffic, protecting networks from attacks.  
 
 Networking is more than just connections — it’s the framework that allows systems to function and interact securely. Mastering the basics of networking provides the foundation for understanding cybersecurity and anticipating potential vulnerabilities.
-
 ---
 ## Why Networking Matters
 
